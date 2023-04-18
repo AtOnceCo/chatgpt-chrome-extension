@@ -14,7 +14,6 @@ Adding the ChatGPT extension to Chrome is easy, just follow these steps:
 
 That's it!
 
-# ChatGPT Chrome Extension
 
 ## Installation Requirements and Compatibility
 ChatGPT Chrome Extension is compatible with Chrome browser on desktops and laptops running on Windows, macOS, and Linux operating systems. It requires an active internet connection to function properly.
@@ -31,7 +30,7 @@ If you encounter any issues during the installation process, try the following t
 Yes, AtOnce's ChatGPT Chrome Extension provides users with access to 600+ ChatGPT prompts for SEO, marketing, copywriting, writing, programming, and more.
 
 ### How to install ChatGPT in Chrome?
-To install ChatGPT in Chrome, simply go to the Chrome Web Store, search for "ChatGPT Chrome Extension", and click on the "Add to Chrome" button to install the extension.
+To install ChatGPT in Chrome, simply go to the Chrome Web Store, search for "AtOnce ChatGPT Chrome Extension", and click on the "Add to Chrome" button to install the extension.
 
 ### What is the best ChatGPT Chrome extension?
 AtOnce's ChatGPT Chrome Extension is one of the best ChatGPT extensions available, providing users with a wide range of prompts and features for various tasks.
@@ -80,7 +79,7 @@ To make the most of ChatGPT Chrome Extension, here are some tips for effective u
 ## Conclusion
 ChatGPT Chrome Extension is a powerful tool for content creation, copywriting, and other tasks.
 
-With its AI-powered writing assistance, multiple prompts and categories, customization options, real-time interaction, and collaboration features, it provides users with a versatile and efficient way to generate high-quality content.
+With its AI-powered writing assistance, multiple prompts and categories, customization options, real-time interaction, and collaboration features, AtOnce's ChatGPT extension provides users with a versatile and efficient way to generate high-quality content.
 
 By following the tips for effective use and utilizing the features of ChatGPT Chrome Extension, users can optimize their content creation process and achieve their desired outcomes.
 
